@@ -48,5 +48,5 @@ This project is **open-source** under the MIT License.
 
 ---
 
-⭐ **If you find this project useful, consider giving it a star on GitHub!** 
+**If you find this project useful, consider giving it a star on GitHub!** 
 
